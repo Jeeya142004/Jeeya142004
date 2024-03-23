@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jeeya142004
+- 👋 Hi, I’m Jeeya Agrawal.
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on a good project.
